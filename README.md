@@ -1,4 +1,4 @@
 # PE3D
-First project. (Processing)
+First project. (Processing language)
 
 Wroten as an experiment
